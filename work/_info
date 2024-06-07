@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/ComputerDesign/code/source/source/final
+valu
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 FTh^Lh]T2B[H?S:oGXhXi3
+I0=9@?eTiV3Uonc6>H[>V63
+Z1 dE:/ComputerDesign/code/source/source/MyMCCPU
+w1716427837
+8E:/ComputerDesign/code/source/source/MyMCCPU/alu.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/alu.v
+L0 3
+Z2 OL;L;10.5;63
+Z3 !s108 1717032935.000000
+!s107 ctrl_encode_def.v|E:/ComputerDesign/code/source/source/MyMCCPU/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vctrl
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 <iXhZ_^m>U6<mHCeVk4E10
+I=a11MN=A@Y[eG2SbKXn@[2
+R1
+w1716521567
+8E:/ComputerDesign/code/source/source/MyMCCPU/ctrl.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/ctrl.v
+L0 4
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/ctrl.v|
+!i113 0
+R4
+R5
+vdm
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 WiJ40XKP8aUYcRI<FS8DL3
+I8WJgb85T545WdofRj<b;?2
+R1
+w1572064098
+8E:/ComputerDesign/code/source/source/MyMCCPU/dm.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/dm.v
+L0 3
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/dm.v|
+!i113 0
+R4
+R5
+vEXT
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 d`GCF]Xe]JFP6O7KiSl;j1
+IN]D;;VSRAj@0kV]aFU8<A1
+R1
+w1571500074
+8E:/ComputerDesign/code/source/source/MyMCCPU/EXT.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/EXT.v
+L0 2
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/EXT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/EXT.v|
+!i113 0
+R4
+R5
+n@e@x@t
+vflopenr
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 aa[fbnBV=0Z<hjkS9O5en2
+I=6bY]D5[W1]dH^=?RcVV^1
+R1
+w1571813108
+8E:/ComputerDesign/code/source/source/MyMCCPU/flopenr.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/flopenr.v
+L0 1
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/flopenr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/flopenr.v|
+!i113 0
+R4
+R5
+vflopr
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 cKR]Ja2?a7S:WW`X8LiH32
+IP;XYYES61dM=jcSd;[UGU3
+R1
+w1571662242
+8E:/ComputerDesign/code/source/source/MyMCCPU/flopr.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/flopr.v
+L0 1
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/flopr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/flopr.v|
+!i113 0
+R4
+R5
+vmccomp
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 nLI2YIZM6AVMLGGC=X>T:2
+I9<j^Gz^[CZ_kEH_]NWB0S0
+R1
+w1572073896
+8E:/ComputerDesign/code/source/source/MyMCCPU/mccomp.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/mccomp.v
+L0 1
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/mccomp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/mccomp.v|
+!i113 0
+R4
+R5
+vmccomp_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 U>5AWCjeEXES1m79VRNQA2
+I62Ah8?MF8[G96WDX4Vc_Z3
+R1
+w1717032825
+8E:/ComputerDesign/code/source/source/MyMCCPU/mccomp_tb.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/mccomp_tb.v
+L0 3
+R2
+Z6 !s108 1717032936.000000
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/mccomp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/mccomp_tb.v|
+!i113 0
+R4
+R5
+vmccpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Sc1HcdeIKDFG7e^DXm4B60
+IY=OebO>H6i_iEilUajFoK2
+R1
+w1716434980
+8E:/ComputerDesign/code/source/source/MyMCCPU/mccpu.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/mccpu.v
+L0 1
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/mccpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/mccpu.v|
+!i113 0
+R4
+R5
+vmux16
+Z7 !s110 1717032936
+!i10b 1
+!s100 _kD]@DiV[:SJ[]_:lBKV[0
+I5hf6I?ZGh9cKI1d>`<hDm0
+R0
+R1
+Z8 w1571500140
+Z9 8E:/ComputerDesign/code/source/source/MyMCCPU/mux.v
+Z10 FE:/ComputerDesign/code/source/source/MyMCCPU/mux.v
+L0 71
+R2
+r1
+!s85 0
+31
+R6
+Z11 !s107 E:/ComputerDesign/code/source/source/MyMCCPU/mux.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/mux.v|
+!i113 0
+R4
+R5
+vmux2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 QXC^TY7h[nMB8eh1LThKL1
+ILX2dH>He^:fSCbf:<hQ<Y0
+R1
+R8
+R9
+R10
+L0 2
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux4
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 3KQ[c;ZUY31^gKT9SAAk20
+Ib`:W2QE3VzEL=GWUEDJEC0
+R1
+R8
+R9
+R10
+L0 15
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux8
+R7
+!i10b 1
+!s100 FLg[0F=fBIb=LWfFP8G0M0
+IRndn`6Q>WVZFoA4K^@]8J2
+R0
+R1
+R8
+R9
+R10
+L0 40
+R2
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vRF
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 e?U@1Fe^@gYOeA1VZZ@]^0
+I7=_iERnCP>KYURDfNU<5N2
+R1
+w1571500702
+8E:/ComputerDesign/code/source/source/MyMCCPU/RF.v
+FE:/ComputerDesign/code/source/source/MyMCCPU/RF.v
+L0 2
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/MyMCCPU/RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/MyMCCPU/RF.v|
+!i113 0
+R4
+R5
+n@r@f
